@@ -26,4 +26,4 @@ git remote add origin https://github.com/<github_username>/<test_repo_name>
 git push -u origin master
 ```
 
-in the settings for __<test_repro_name>__ set the Github Pages to serve from `docs`.
+in the settings for __<test_repo_name>__ set the Github Pages to serve from `docs`.
